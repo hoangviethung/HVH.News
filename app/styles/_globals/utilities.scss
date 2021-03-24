@@ -110,3 +110,11 @@
 	grid-template-columns: repeat(2, minmax(0, 1fr));
 	grid-gap: 16px;
 }
+
+.excerpt {
+	margin-top: 8px;
+	p {
+		color: $hvh-gray-text-color;
+		font-size: 1.4rem;
+	}
+}
